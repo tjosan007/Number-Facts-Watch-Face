@@ -14,7 +14,6 @@ Number Facts is a unique free watch face developed on Android Wear devices. It s
   <li>Battery Indicator (On/Off)></li>
   <li>Ambient Mode></li>
 </ul>
-<br><br>
 
 This app was developed using the wear API specific for watch faces, and the lesser known classes include in the Android library that help with file storage, preference storage, and image storage retrieval. The use of SQLite databases is utilized for watch efficiency.
 
