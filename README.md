@@ -16,6 +16,6 @@ Number Facts is a unique free watch face developed on Android Wear devices. It s
 </ul>
 
 <h3>Developer Comments</h3>
-This app was developed using the wear API specific for watch faces, and the lesser known classes include in the Android library that help with file storage, preference storage, and image storage retrieval. The use of SQLite databases is utilized for battery efficiency.
+This app was developed using the wear API specific for watch faces, and the lesser known classes include in the Android library that help with file storage, preference storage, and image storage retrieval. The use of SQLite databases is utilized for battery efficiency, as well as a handful of trigonometric functions used for design.
 
 
